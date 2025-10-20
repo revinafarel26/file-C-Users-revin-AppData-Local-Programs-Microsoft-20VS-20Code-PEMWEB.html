@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website Revin Afarel Maulana</title>
+</head>
+<body>
+    <h1>Selamat Datang di Website Saya</h1>
+    <p>Perkenalkan nama saya Revin Afarel Maulana bisa dipanggil Revin ganteng, saya berasal dari Jakarta tepatnya Jakarta Timur, kesibukan saya selain mencintai kamu saya juga kuliah, kebetulan saya kuliah di UGM alias Universitas Gunadarma Margonda</p>
+
+    <h2>Tentang Saya</h2>
+    <p>saya adalah orang yang dermawan, baik hati, tidak sombong, jujur, amanah, ganteng, rajin ibadah</p>
+
+    <h2>Hobi Saya</h2>
+    <ul>
+        <li>Futsal</li>
+        <li>Mobile Legend</li>
+        <li>Main Bola</li>
+        <li>Nanjak Gunung</li>
+        <li>Nonton live kamu 🫶🏻</li>
+    </ul>
+</body>
+</html>
